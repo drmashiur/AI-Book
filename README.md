@@ -1,5 +1,16 @@
 ---
-description: Welcome to the page.
+icon: pencil-mechanical
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # ড. মশিউর এর লেখালেখি
