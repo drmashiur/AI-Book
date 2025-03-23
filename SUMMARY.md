@@ -12,6 +12,7 @@
 
 * [বিজ্ঞানচিন্তায় প্রকাশিত](science-technology/bigganchinta/README.md)
   * [মেশিন লার্নিং: কম্পিউটার কীভাবে শেখে](science-technology/bigganchinta/how-computer-learn.md)
+  * [কৃত্রিম বুদ্ধিমত্তার সূচনা হলো যেভাবে](science-technology/bigganchinta/how-ai-starts.md)
 
 ## কবিতা <a href="#kobita" id="kobita"></a>
 
