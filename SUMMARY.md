@@ -5,8 +5,8 @@
 ## প্রকাশিত বই <a href="#books" id="books"></a>
 
 * [সফল ক্যারিয়ার গড়ার উপায়](books/undefined.md)
-* [পার্সোনাল ব্র্যান্ডিং](books/undefined-1.md)
-* [কৃত্রিম বুদ্ধিমত্তা](books/undefined-2.md)
+* [ডিজিটাল জামানায় পার্সোনাল ব্র্যান্ডিং](books/undefined-1.md)
+* [ডিজিটাল জামানায় কৃত্রিম বুদ্ধিমত্তা](books/personal-branding.md)
 
 ## বিজ্ঞান ও প্রযুক্তি <a href="#science-technology" id="science-technology"></a>
 
@@ -17,3 +17,8 @@
 ## কবিতা <a href="#kobita" id="kobita"></a>
 
 * [২০২৫](kobita/undefined.md)
+
+## হাইকু <a href="#haiku" id="haiku"></a>
+
+* [হাইকুর গল্প](haiku/intro.md)
+* [০১ পুকুর ও ব্যাঙ](haiku/undefined.md)
