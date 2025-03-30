@@ -22,3 +22,4 @@
 
 * [হাইকুর গল্প](haiku/intro.md)
 * [০১ পুকুর ও ব্যাঙ](haiku/01-an-old-silent-pond.md)
+* [০২ মোমবাতির আলো](haiku/the-light-of-a-candle.md)
