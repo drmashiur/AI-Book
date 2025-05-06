@@ -16,7 +16,8 @@
 
 ## কবিতা <a href="#kobita" id="kobita"></a>
 
-* [২০২৫](kobita/undefined.md)
+* [২০২৫](kobita/2025/README.md)
+  * [হাইকু](kobita/2025/haiku.md)
 
 ## হাইকু <a href="#haiku" id="haiku"></a>
 
