@@ -24,6 +24,6 @@
 * [হাইকুর গল্প](haiku/intro.md)
 * [০১ পুকুর ও ব্যাঙ](haiku/01-an-old-silent-pond.md)
 
-## কলাম <a href="#articles" id="articles"></a>
+## ভ্রমণ কাহিনী <a href="#travel-story" id="travel-story"></a>
 
-* [কৃত্রিম বুদ্ধিমত্তা ও আমেরিকার ট্যারিফ নিয়ে এন্ড্রুউ](articles/ai-and-terrif-andrew-ng.md)
+* [কানাডার অরণ্যে হারানো ঘোড়া ও টমের হ্রদ আবিষ্কার](travel-story/canda-emerald-lake.md)
