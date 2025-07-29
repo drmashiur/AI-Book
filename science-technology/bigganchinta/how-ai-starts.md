@@ -1,16 +1,5 @@
 ---
 description: 'প্রকাশিত: ২৩ মার্চ ২০২৫'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # কৃত্রিম বুদ্ধিমত্তার সূচনা হলো যেভাবে

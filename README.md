@@ -1,16 +1,5 @@
 ---
 icon: pencil-mechanical
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # ড. মশিউর এর লেখালেখি
@@ -25,7 +14,7 @@ layout:
 
 আমার সাথে ইমেইলে যোগাযোগ করুন নিম্নের ঠিকানায়
 
-<figure><img src=".gitbook/assets/image.png" alt="ইমেইলে ঠিকানা"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="ইমেইলে ঠিকানা"><figcaption></figcaption></figure>
 
 
 

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ০১ পুকুর ও ব্যাঙ
 
 <figure><img src="../.gitbook/assets/image (9).png" alt="" width="320"><figcaption></figcaption></figure>
