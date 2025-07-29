@@ -17,7 +17,9 @@
 
 বইটি অর্ডার করতে নিম্নের লিংকে ক্লিক করুন।&#x20;
 
-{% embed url="https://www.rokomari.com/book/455968/artificial-intelligence" %}
+
+
+[https://www.rokomari.com/book/455968/artificial-intelligence](https://www.rokomari.com/book/455968/artificial-intelligence)
 
 
 
