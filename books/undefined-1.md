@@ -25,4 +25,4 @@
 
 বর্তমানে (২৯ জুলাই ২০২৫) বইটি "আর্টিফিসিয়াল ইন্টেলিজেন্স ও রোবটিক্স" বিভাগে তৃতীয় বেস্ট সেলার হিসাবে রয়েছে।&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

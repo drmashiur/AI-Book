@@ -14,7 +14,7 @@ icon: pencil-mechanical
 
 আমার সাথে ইমেইলে যোগাযোগ করুন নিম্নের ঠিকানায়
 
-<figure><img src=".gitbook/assets/image (1).png" alt="ইমেইলে ঠিকানা"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="ইমেইলে ঠিকানা"><figcaption></figcaption></figure>
 
 
 
