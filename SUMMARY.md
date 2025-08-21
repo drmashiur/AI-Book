@@ -17,6 +17,7 @@
 * [সম্পাদকীয়](science-technology/op-ed/README.md)
   * [এআই ও ডেটা-সায়েন্সে আউটসোর্সিংয়ের সম্ভাবনা](science-technology/op-ed/ai-data-science-opportunity-bangladesh.md)
   * [নির্বাচনে কৃত্রিম বুদ্ধিমত্তার প্রভাব মোকাবেলায় বাংলাদেশের প্রস্তুতি কেমন](science-technology/op-ed/undefined.md)
+  * [লিগ্যাসি তৈরি এবং নেতৃত্বের ধারাবাহিকতা](science-technology/op-ed/legacy_creation_and_leadership_continuity.md)
 
 ## কবিতা <a href="#kobita" id="kobita"></a>
 
